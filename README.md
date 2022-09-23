@@ -10,4 +10,4 @@ But if they aren't the same, script adds the current text to the clipboard.txt a
 
 ## License
 
-[MIT Lincense] (LINCENSE)
+[MIT License] (LICENSE)
